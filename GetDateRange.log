@@ -1,0 +1,14 @@
+Line 44: Class MSComCtl2.DTPicker of control dtpFrom was not a loaded control class.
+Line 66: Class MSComCtl2.DTPicker of control dtpTo was not a loaded control class.
+Line 50: The property name _ExtentX in dtpFrom is invalid.
+Line 51: The property name _ExtentY in dtpFrom is invalid.
+Line 52: The property name _Version in dtpFrom is invalid.
+Line 62: The property name CustomFormat in dtpFrom is invalid.
+Line 63: The property name Format in dtpFrom is invalid.
+Line 64: The property name CurrentDate in dtpFrom is invalid.
+Line 72: The property name _ExtentX in dtpTo is invalid.
+Line 73: The property name _ExtentY in dtpTo is invalid.
+Line 74: The property name _Version in dtpTo is invalid.
+Line 84: The property name CustomFormat in dtpTo is invalid.
+Line 85: The property name Format in dtpTo is invalid.
+Line 86: The property name CurrentDate in dtpTo is invalid.
